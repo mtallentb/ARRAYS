@@ -1,2 +1,2 @@
-# ARRAYS
-# ARRAYS
+#  RUBY ARRAYS
+
